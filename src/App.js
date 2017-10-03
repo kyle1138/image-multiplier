@@ -12,16 +12,9 @@ class App extends Component {
     }
   }
 
-  // getInitialState: function() {
-  //   return {
-  //     imagePath : 'http://www.dogbreedplus.com/dog_breeds/images/papastzu.jpg'
-  //   };
-  // },
-  // componentWillMount(){
-  //   this.setState({
-  //     imagePath : 'http://www.dogbreedplus.com/dog_breeds/images/papastzu.jpg'
-  //   });
-  // };
+  componentWillMount(){
+    
+  };
 
   setImage(newImage){
     console.log(newImage);

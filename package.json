@@ -2,6 +2,7 @@
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://kyle1138.github.io/image-multiplier",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

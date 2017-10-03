@@ -12,7 +12,7 @@ class Grid extends Component {
   buildCells(){
     let imagePath = this.props.imagePath;
     let table = [];
-    for(let i = 0; i < 5; i ++){
+    for(let i = 0; i < 1; i ++){
       let row =
       <tr key={`row${i}`}>
         <Cell key={`${i}-1`} imagePath={imagePath}/>
